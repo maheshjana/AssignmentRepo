@@ -1,6 +1,18 @@
 Example 1
 From remote
+<<<<<<< HEAD
 Conflict checking
 merge test
 second merge commit
 
+=======
+<<<<<<< HEAD
+Without pull trying to commit and push
+=======
+Conflict checking
+>>>>>>> f1aac92d523cbe4f867790eb87ac7214357b92fd
+
+Conflict resolved
+Fetch checking
+Fetch chekcing again
+>>>>>>> cf89812115be1e98b5546347a64e449ab5f830b0
